@@ -2242,8 +2242,8 @@ class BiscuitTest extends TestCase
             <entry>Constraint that asserts that the class it is evaluated for has a given static attribute.</entry>
           </row>
           <row>
-            <indexterm><primary>hasAttribute()</primary></indexterm>
-            <entry><literal>PHPUnit_Framework_Constraint_ObjectHasAttribute hasAttribute(string $attributeName)</literal></entry>
+            <indexterm><primary>objectHasAttribute()</primary></indexterm>
+            <entry><literal>PHPUnit_Framework_Constraint_ObjectHasAttribute objectHasAttribute(string $attributeName)</literal></entry>
             <entry>Constraint that asserts that the object it is evaluated for has a given attribute.</entry>
           </row>
           <row>
